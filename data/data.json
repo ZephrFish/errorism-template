@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Sample Item 1",
+    "description": "This is a description of item 1.",
+    "tags": [
+      "Tag1",
+      "Tag2"
+    ],
+    "command": "echo 'Command 1'"
+  },
+  {
+    "title": "Sample Item 2",
+    "description": "This is a description of item 2.",
+    "tags": [
+      "Tag2",
+      "Tag3"
+    ],
+    "command": "echo 'Command 2'"
+  }
+]
